@@ -17,4 +17,4 @@ Kullanmak istediğimiz Python Kütüphaneleri aşağıda verilmiştir. Herhangi 
 - statsmodels  
 - ggplot2  
 - Bokeh
-![](C:\Users\hsnyl\Desktop\veribilimi.png)
+![Image of Data Science](C:\Users\hsnyl\Desktop\veribilimi.png)
