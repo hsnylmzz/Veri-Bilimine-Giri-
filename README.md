@@ -16,4 +16,5 @@ Kullanmak istediğimiz Python Kütüphaneleri aşağıda verilmiştir. Herhangi 
 - matplotlib  
 - statsmodels  
 - ggplot2  
-- Bokeh  
+- Bokeh
+![](C:\Users\hsnyl\Desktop\veribilimi.png)
